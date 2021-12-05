@@ -1,0 +1,6 @@
+a = int(input(Enter the value a:"))
+b = int(input(Enter the value b:"))
+
+print ("a:", a)
+Print ("b:", b)
+
